@@ -13,3 +13,8 @@ Questify is a chatbot application that enables users to query the content of PDF
 
 - **Number Processing**: Does not handle numerical data or equations.
 - **Table Processing**: Does not process tables or structured data within the PDF.
+
+## API KEY
+  
+Obtain an API key from Google for Gemini 
+and add it to the API_KEY variable in the BackEnd/data/api.py file.
